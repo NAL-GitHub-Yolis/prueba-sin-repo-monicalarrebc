@@ -3,7 +3,7 @@
     {
       "name": "caso 1",
       "setup": "",
-      "run": "py prueba.py",
+      "run": "python3 prueba.py",
       "input": "1\r\n2",
       "output": "3",
       "comparison": "included",
