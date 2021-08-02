@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "caso 1",
+      "setup": "",
+      "run": "py prueba.py",
+      "input": "1\r\n2",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
